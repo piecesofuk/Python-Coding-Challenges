@@ -11,3 +11,7 @@ online: https://trinket.io/python/b7d62326ec?toggleCode=true&showInstructions=tr
 processing.py: https://github.com/piecesofuk/Python-Coding-Challenges/tree/master/CC_003_Snake_game
 
 online: https://trinket.io/python/55c8132df5?toggleCode=true&showInstructions=true
+##### CC_004_PurpleRain
+processing.py: https://github.com/piecesofuk/Python-Coding-Challenges/tree/master/CC_004_PurpleRain
+
+online: https://trinket.io/python/a0395c8f49?toggleCode=true&showInstructions=true
